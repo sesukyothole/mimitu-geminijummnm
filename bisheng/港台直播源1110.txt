@@ -1,0 +1,210 @@
+4号球场,https://gdctyunct.inter.71edge.com/tslive/l1/c66_ssports_20230907_4sgnl2rc_1080p_chst1_t4/RY_3MsvtrK5IAnwX1DVVGd5w3tzYmJnzmzl6TJR3PD380tYfFnv9lgG8hCeD2tYYrT2ChiOC2unC3zzIsbxDu9Umm-c2_RdgxWqfXZoefMmkb-mgI0LZdFsGgfq8mOJ19hS8XZlLPahDMQ9zSOAhDd1JctYDmqxjsVC3h344h5lqA04Bi-_UQNkXviB4mQBVarRZWgcztcRzi6LXT0ExZjKL_7LeLOf2ICgvC21uzFTfGy89zyszoSYQDRoNOXNq2OLOlBtPgqQmN-K3hAHgHKK-_KSVxptPcE_nzPTWYVM/129ce450017582f0c2df264421e04e726/c66_ssports_20230907_4sgnl2rc_1080p_chst1_t4.m3u8?key=07cbb48756c02405c69f6b3e337c2a65&dis_t=1694102547&qdpv=3&qd_sft=0&mss=1&pv=0.1&ssl=1&uid=4008703904783616&random=1694102547
+5号球场,https://lvbdcdnct.inter.71edge.com/tslive/l1/c61_ssports_20230907_2ng1b423_1080p_chst1_t4/TNtXVUeRQ67mYgEvAxdzhpB3GAF1FvjhN7YGDAw-oEZHma1nOfj7KoUNLqw9-u_-KJ0puVcqufICRzofKegAOiAEUe5UVa8XEsqw-ehpTLnRdpuBDHwjwJ8IY3f1QhAHwH_jt62BnyaofEhKKlbnn__7Gtejkf7N0WmTNm4UWZslXMUyadjVidjE98IC_yKZfeEjH4uhap78pVnR3dU0Pk-ChY0drKgh34WyF5E5jBS97htWaUg8LPJzsZLqD6e8yskmmFU1Ef1m9P7nWXlvMM3_9Nv3eMGwq8N_TcZlJ7g/1307202046cd52858c94628494cfd61b9/c61_ssports_20230907_2ng1b423_1080p_chst1_t4.m3u8?key=0d348728098fd89de41ad37ecf0d95516&dis_t=1694102463&qdpv=3&qd_sft=0&mss=1&pv=0.1&ssl=1&uid=4008703904783616&random=1694102463
+6号球场,https://gdctyunct.inter.71edge.com/tslive/l1/c68_ssports_20230907_uvahtacx_1080p_chst1_t4/_izEYCPPOlf6fvfHAlzPuxbIhWheXLuzNEgd5tyR75sRCyo9Ed0Ofm5XQNGRFuPjIK2a5Yt0SP21w8hntkHijK4QhoPhIAHlWOOjYQL81kwQ8clZiK-j7BytCGgsaGHDyKCQYg_m-akt7GxOAwc0MHAPEfqL6W-V4TtQo6XDyj6orHujyT5ooXFzJCYDxUURjWmuvvO7gFko6bI_gUrR013VTjU3swwENBaO1RRb45ddG4pCKBU_vfLmqAZ5nFsyc4WxODlpoFQjSledPz6GmcHH7Krzv9uU7wn6TAegFcE/1a1d98b9ac96a7661ee7dde435a7c90df/c68_ssports_20230907_uvahtacx_1080p_chst1_t4.m3u8?key=07cbb48756c02405c3bed9b3ebc294264&dis_t=1694102569&qdpv=3&qd_sft=0&mss=1&pv=0.1&ssl=1&uid=4008703904783616&random=1694102569
+7号球场,https://qncdnct.inter.71edge.com/tslive/l1/c61_ssports_20230907_jqdahbej_1080p_chst1_t4/A3CX9iWZeDIXyo6yIb3ueJ3hu1p37RMFUKrKNwtBe1f8z4n2nRw6Bl9SMtlLWbvrikXyNJ1OSoprnz9VaKxfSqSxeWz_5qN0YQI2rBDd9yvbkb9lzI61-5NSShZWBVAutWZrs3oFxYx-X19JQQ6Vll7Mf6Q-N8L0TQknndCyb_eoxcZeTECg-MLMlt2qZYkIOFNnX-H468Z03kqTKD-tuUjawzWSTo3nxuSJppU6eSK28UZpwPkVyhvqrz30w3X5E17YZ0qQmkDkZhI2FHxbsPcG80SrXbUSAgCkAl-WxsU/173236d98d59b278587add9ca012683b2/c61_ssports_20230907_jqdahbej_1080p_chst1_t4.m3u8?key=07cbb48756c02405c5792fdda1b71361e&dis_t=1694102584&qdpv=3&qd_sft=0&mss=1&pv=0.1&ssl=1&uid=4008703904783616&random=1694102584
+9号球场,https://gdctyunct.inter.71edge.com/tslive/l1/c68_ssports_20230907_thh0iip3_1080p_chst1_t4/wg8eIZR8AFx2LUDMU0U3cn6-bJSgvQEiiDIM5D-kHpuDUKkTGHmPbUIW8xI7nSfe6T3AJWzpgUWXEdK6JfV2AIPkiw9A-Ykqn0RjLeaVJtEDlzYqeI8pvfxeRj6NGnvHRl1kUEEqU1vB-HVkMzsbkA9AzScZTb7Cy3CcGSBmm9xfi0tdlTcA4RufCpi3o5qvNxoAWO433YM7Mt7085vReReAqfcIIenKMTCli4nZZjmwEbHhUkvW_r4Ce6lL0YroUAaQqCTULaqZc__blDPNSikRJGCZBUSpHPAQuaoDAeo/178a4e68818743d5e957a8e12da7a572e/c68_ssports_20230907_thh0iip3_1080p_chst1_t4.m3u8?key=07cbb48756c02405cc8ad84e138ed9dda&dis_t=1694102601&qdpv=3&qd_sft=0&mss=1&pv=0.1&ssl=1&uid=4008703904783616&random=1694102601
+10号球场,https://gdctyunct.inter.71edge.com/tslive/l1/c63_ssports_20230907_0iexwyye_1080p_chst1_t4/_VtaM5uLpj_p1coLK8TqbMIO5WzbCJ2hGcBa8k7I1Mng1zDVZXIdfF4ckN0Ym9z4iZLWnWHneuaMypCjT09WeAH10o8FpOdf7i6IhN7KVBnszExcolKSWUGHvwN5hTiQdeyQ7mWSq45XhJjrWXzoHSQP96uWMtRijww8ZVUSP7jBCCwAtZH1wdc1j1rfBIG-ixSPXPIeKXUxBEl4S160CpT-ykG7drRlGqNibwxrE9IisPny6GhmB_I0WW1-BynuLQcZ3MrTlLleOVmRpRa1F29WD54WEbVV8Xa0H10oV3g/1321c66f0de4d4f5879a6c1dcec8e19fb/c63_ssports_20230907_0iexwyye_1080p_chst1_t4.m3u8?key=0d348728098fd89deb160b0df10dba5c3&dis_t=1694102476&qdpv=3&qd_sft=0&mss=1&pv=0.1&ssl=1&uid=4008703904783616&random=1694102476
+11号球场,https://qncdnct.inter.71edge.com/tslive/l1/c61_ssports_20230907_h4peohzr_1080p_chst1_t4/GMW6NLSlzeEpGx-CD5MWqkw3iPBT9ZVh1_KimwnJHD1T7fMpSPKAx_15m5-7Euf4faoiA7Lsr1c9tm0zcBrbMpJ7ilaOkBMsvGfDyiM4EHNPafDbzgtUe_-w-ImkjB4uJVwwyRk1-B-y1vjp8HKiJiUzqIK2jJiTcwMAbdljUVpt_X7IrGSKT4O7HHbcutcLvTvKdF2KQ9ykugQnPqODos_PqRSo_0V-_-_FrUXk5XsWi-3dp8hPsaYkl3j3HI8bs75AtgUu4dVpveg9sXa0xBu4GF0QzqYZQqjz8TmgVEc/1042bbf0207f65c5d39abe8d6fac8c9f0/c61_ssports_20230907_h4peohzr_1080p_chst1_t4.m3u8?key=0d348728098fd89de602fe8e3984c6c5c&dis_t=1694102489&qdpv=3&qd_sft=0&mss=1&pv=0.1&ssl=1&uid=4008703904783616&random=1694102489
+12号球场,https://gdctyunct.inter.71edge.com/tslive/l1/c69_ssports_20230907_vojnxpbw_1080p_chst1_t4/aodRNNJsYdPVGRvZlhfQ0YmRlmGKmkxAGPr1UF14NurhEC7Emy36UQeUEXqnE55R5kIBxL3JrYdXvCZYZ6oYAdsPiUP-i4zQjMzsSHo6grHY3WX7t3gFLS7rnNFYf8UWTs24Joa8ZWB3dtNNPQHJ00ZqiRAOMg87IHRox-FOFPyGu-VCWF423Kxq3aQLJMSBF0_G5sHDVkuHuH1mq9QD6KujPVDCysrAgUnl-pRLgCMzXnDRS1C8Y0-L3LbkqwqT5k4n5crwtcCPmEYpr7Bk9jAHZrqSf8YkIjSAJVEjiBs/1fe0af96d522e20f38a3091da14f7462b/c69_ssports_20230907_vojnxpbw_1080p_chst1_t4.m3u8?key=07cbb48756c02405cbe80b0e1e84474ed&dis_t=1694102512&qdpv=3&qd_sft=0&mss=1&pv=0.1&ssl=1&uid=4008703904783616&random=1694102512
+13号球场,https://lvbdcdnct.inter.71edge.com/tslive/l1/c67_ssports_20230907_1d1rs4lf_1080p_chst1_t4/iwF-3kmEU3nzRRzoCQAToKsGV8t_50782Rn7rW-rafncrkHTKtkd_tEetToER26DuDqX6b_djnPUWDBHE4mOVD0qu91Rfh0BXpPVR1n03xmFum8JSSHWrF98-1hjEMD9CsAR2CDCNvxdcQcSiz4FGVMuslFZM534qk04Xr7_wc0I5mwNDaEa6utxYLA-DyKSzuEkSvyyMdsy3aDY79AY651EmPo3IL4y8Js5cz4a4hXjN14iXaBmMJ_qVyn5ybe6L04o3q8abUmn8G9MqARv4xJfe5pMe9LnSFuBUFF8j3M/1673c556961fd1fd48715ccb5b45d00ed/c67_ssports_20230907_1d1rs4lf_1080p_chst1_t4.m3u8?key=07cbb48756c02405c26f546c8da46c097&dis_t=1694102530&qdpv=3&qd_sft=0&mss=1&pv=0.1&ssl=1&uid=4008703904783616&random=1694102530
+ANIMAX 卡通,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1060
+astor爱艺奇,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571198&extension=ts
+AXN,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1054
+Bloomberg News,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1066
+CCTV4国际,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156404&extension=ts
+CCTV娱乐,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156405&extension=ts
+CINEMAX ACTION EAST国际,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45599&extension=ts
+CINEMAX EAST美洲,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45598&extension=ts
+CINEMAX THRILLERMAX国际,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45595&extension=ts
+CINEMAX WEST美洲,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45594&extension=ts
+CINEMAXHD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1030
+CNBC,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1063
+CNBC,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1063
+DISCOVERY,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1002
+EBS-2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+ELEVEN 1HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1069
+ELEVEN 1HD,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1069
+ELEVEN 2HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1072
+ELEVEN 2HD,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1072
+FOX MOVIES,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live2023
+HBO,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1029
+HBO,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1029
+HBO 1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=176913&extension=ts
+HBO 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=176914&extension=ts
+HBO 3,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45552&extension=ts
+HOY TV,http://bziyunshao.synology.me:8891/bysid/77
+HOY资讯台,http://bziyunshao.synology.me:8891/bysid/78
+momo 綜合台,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1248
+momo親子台,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1007
+MOVIETIME,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=176921&extension=ts
+MUCH TV,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1189
+NHK世界HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1027
+NOW新闻,http://ali.hlspull.yximgs.com/live/8icBP1DuoV78tGPRnkWt6JdMxQWD39Du.flv
+NOW新闻,http://ali.hlspull.yximgs.com/live/hglsMW8wCDE6tSe05imCqpc0FEcku3XX.flv
+NOW星影,http://ali.hlspull.yximgs.com/live/VvGoxlDlRXHNbmEYhGclVXhMBGH5fktQ.flv
+NOW爆谷台,http://ali.hlspull.yximgs.com/live/ZSxLR3dW6PNYC8ye9pTsPnXzAt9Hrtlv.flv
+NOW英超,http://ali.hlspull.yximgs.com/live/uyG0tYVniOPqfMgVomxsKJB22fhF25mp.flv
+RHK 31,http://bziyunshao.synology.me:8892/bysid/31
+RHK 32,http://bziyunshao.synology.me:8892/bysid/32
+RHK 33,http://bziyunshao.synology.me:8892/bysid/33
+RHK 34,http://bziyunshao.synology.me:8892/bysid/34
+STAR MOVIES,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1032
+Star World,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1040
+Star World,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1040
+Taiwan Plus,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1238
+Thrill电影,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=683154&extension=ts
+TVB J2,http://bziyunshao.synology.me:8890/bysid/82
+TVB PEARL,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153399
+TVBSHD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1251
+TVBS新聞HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1051
+TVBS歡樂HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1018
+TVB华丽翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+TVB娱乐新闻,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571188&extension=ts
+TVB娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+TVB新闻台,https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
+TVB无线新闻台,http://bziyunshao.synology.me:8890/bysid/83
+TVB明珠台,http://bziyunshao.synology.me:8890/bysid/2
+TVB星河频道,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+TVB直播台,https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
+TVB翡翠,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=ts&stream=153505
+TVB翡翠,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
+TVB翡翠,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
+TVB翡翠台,http://bziyunshao.synology.me:8889/bysid/1
+TVB财经体育资讯台,http://bziyunshao.synology.me:8890/bysid/85
+TVB财经台,https://edge6a.v2h-cdn.com/finance/finance.stream/chunklist.m3u8
+Viu TV,http://bziyunshao.synology.me:8889/bysid/99
+Viu TV6,http://bziyunshao.synology.me:8889/bysid/96
+WWE摔跤,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571184&extension=ts
+三立台灣,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1061
+三立台灣HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1021
+三立国际,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156390&extension=ts
+三立新聞,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1079
+三立新聞HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1016
+三立都會HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1020
+上海国际,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156415&extension=ts
+东森卫视美洲,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156394&extension=ts
+东森幼幼,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156403&extension=ts
+东森戏剧美洲,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156395&extension=ts
+中天亚洲,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
+中天娛樂HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1023
+中天新聞HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1015
+中天綜合HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1022
+中視HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1048
+亚洲武侠频道,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
+亞洲旅遊,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1219
+人間衛視,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1198
+人間衛視,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1198
+佛教,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+俄·IGITV蓝光,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+俄·RBC(Opt-1)[996*560],http://92.50.128.180/utv/1358/index.m3u8
+八大戲劇HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1057
+八大第一HD,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1043
+八大第一HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1043
+八大綜合HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1019
+公視,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1201
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰卫视美洲,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156408&extension=ts
+凤凰资讯,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156407&extension=ts
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://r.jdshipin.com/NfC0f
+動物星球,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1004
+半·新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+华夏电视,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156422&extension=ts
+博斯運動一,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1225
+卫视中文台,http://gwtv.cnv8.tv:8097/weishichinese_twn/playlist.m3u8
+台視HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1047
+台视新闻,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156398&extension=ts
+台视综合,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156392&extension=ts
+四海钓鱼,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel43036/index.m3u8
+國家地理,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live2025
+國家地理HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1003
+壹新聞,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1242
+大愛電視,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1216
+天映经典,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571182&extension=ts
+天映经典2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=683110&extension=ts
+天映频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=941618&extension=ts
+天映频道2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571218&extension=ts
+好消息頻道,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1231
+好萊塢電影HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1025
+安徽国际,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156420&extension=ts
+寰宇新聞,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1222
+寵物頻道,http://81.69.20.196/mqlive.m3u8?ip=60.250.121.217:888&id=live2790
+小太阳,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571230&extension=ts
+岭南戏曲,http://120.236.57.77:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
+希·FoxTV,http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+年代新聞,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1192
+年代新聞台,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1077
+广东体育,http://120.236.57.77:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+广东公共,http://120.236.57.77:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+广东南方卫视,http://120.236.57.77:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://120.236.57.77:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://120.236.57.77:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻,http://120.236.57.77:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://120.236.57.77:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+广东经济科教,http://120.236.57.77:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+广东综艺,http://120.236.57.77:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+探索亚洲,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571181&extension=ts
+旅遊生活,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1005
+日·NHK,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+日·QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+星空卫视,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=683118&extension=ts
+東森幼幼HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1008
+東森戲劇HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1042
+東森新聞HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1014
+東森綜合HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1041
+東森財經HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1017
+東風衛視,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1195
+民視HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1050
+民視新聞,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1204
+民视新闻,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156389&extension=ts
+江苏国际,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156423&extension=ts
+法·24台,http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
+法·时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+泰·THAIPBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+泰·公共三台,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+浙江国际,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156412&extension=ts
+海峡卫视,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156424&extension=ts
+深圳国际,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156419&extension=ts
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+緯來戲劇,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1186
+緯來日本HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1026
+緯來綜合HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1044
+緯來育樂HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1045
+緯來電影HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1183
+緯來體育HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1011
+美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+美亚电影台,http://gwtv.cnv8.tv:8097/meiyamovie_twn/playlist.m3u8
+美国城市,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156401&extension=ts
+翡翠台,http://ali.hlspull.yximgs.com/live/JLJYXaVR6KVRDSAnMcjTOuKW6VCrJT3V.flv
+翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
+華視HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1049
+衛視中文HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1024
+衛視電影,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live2022
+衛視電影HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1031
+西·加利西亚欧洲体育电视台,http://europa-crtvg.flumotion.com/playlist.m3u8
+超視HD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1180
+達文西頻道,http://81.69.20.196/mqlive.m3u8?ip=60.250.121.217:888&id=live2787
+重庆国际,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156421&extension=ts
+长城精品,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156409&extension=ts
+长城精品2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156410&extension=ts
+阿姆斯特朗球场,https://gdctyunct.inter.71edge.com/tslive/l1/c65_ssports_20230907_xha5jajn_1080p_chst2_t4/cYGs5UqxM9QbqaFCd5kT7xB6t9WWmHK9hiDGQjS-Mekw1NSL7O7yAqFwOORuvFbDDnKxDW1kdMR7D8wFnVzuwbWyLON6i95kOcmfbAKs56avOlIOcfYllRWYy__pm4_7E9FS_f1zMlGS42HHm-WyLyImSJPy4tmC7BJ67vwFCUCl8jPB5RvP6y7M--796D_8xGvzG59bNm7oGbqyIudDVb3U63ZOMBBV0Q7nxWTeAUf6DfvPURum0qItRrT_ONcJcfw6dzA233QpO0ZQMe4NPUdzsUKJOl-TXxXs62JMh-U/1c89dbb85bddbc2d70f6dae7b7b5bb254/c65_ssports_20230907_xha5jajn_1080p_chst2_t4.m3u8?key=00ad5acf41fb89859539817d1005c6c57&dis_t=1694102446&qdpv=3&qd_sft=0&mss=1&pv=0.1&ssl=1&uid=4008703904783616&random=1694102447
+非凡商業,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1012
+非凡新聞,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1013
+韩·EBS-1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+韩·EBS-1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+韩·EBS-2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+韩·EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+韩·KBC,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+韩·SBS,http://1.245.74.5:1935/live/tv/.m3u8
+韩·职业,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8CGTN
+韩·阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩·阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+音乐,http://live.m2.tv/hls3/stream.m3u8
+香港国际财经台,http://bziyunshao.synology.me:8891/bysid/76
+鳯凰衛視中文,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1213
+鳯凰衛視資訊,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1210
+龍華偶像劇,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1235
+龍華卡通台,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=custom29
+龍華戲劇台,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1009
+龍華日韓劇,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1010
