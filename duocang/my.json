@@ -1,0 +1,22 @@
+{
+  "urls": [
+    {"name": "OK影视", "url": "https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/oktv.json"},
+    {"name": "xianyuyimu", "url": "https://ghfast.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E5%A4%9A%E7%BA%BF%E8%B7%AF.json"},
+    {"name": "h1128k", "url": "https://ghfast.top/https://raw.githubusercontent.com/hl128k/tvbox/refs/heads/main/url.json"},
+    {"name": "mengzeheduocang", "url": "https://ghfast.top/https://raw.githubusercontent.com/mengzehe/tvbox/main/duocang.json"},
+    {"name": "mengzehecangku", "url": "https://ghfast.top/https://raw.githubusercontent.com/mengzehe/tvbox/main/cangku.json"},
+    {"name": "mengzehe18", "url": "https://ghfast.top/https://raw.githubusercontent.com/mengzehe/tvbox/main/18.json"},
+    {"name": "七人之道app", "url": "https://ghfast.top/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/app.json"},
+    {"name": "七人之道jsm", "url": "https://ghfast.top/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/pg/jsm.json"},
+    {"name": "七人之道tvbox", "url": "https://ghfast.top/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/tvbox.json"},
+    {"name": "七人之道xyqtv", "url": "https://ghfast.top/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/XYQTVBox.json"},
+    {"name": "七人之道adult", "url": "https://ghfast.top/https://raw.githubusercontent.com/qirenzhidao/tvbox18/refs/heads/main/adult.json"},
+    {"name": "hd9211多仓", "url": "https://ghfast.top/https://raw.githubusercontent.com/hd9211/Tvbox1/refs/heads/main/duocang1.json"},
+    {"name": "hd9211tv", "url": "https://ghfast.top/https://raw.githubusercontent.com/hd9211/Tvbox1/refs/heads/main/TV.json"},
+    {"name": "hd9211adult", "url": "https://ghfast.top/https://raw.githubusercontent.com/hd9211/Tvbox1/refs/heads/main/cr.json"},
+    {"name": "hd9211fm", "url": "https://ghfast.top/https://raw.githubusercontent.com/hd9211/Tvbox1/refs/heads/main/fm.json"},
+    {"name": "hd9211wuheng", "url": "https://ghfast.top/https://raw.githubusercontent.com/hd9211/Tvbox1/refs/heads/main/wuheng18_ysc.json"},
+    {"name": "hd9211best", "url": "https://ghfast.top/https://raw.githubusercontent.com/hd9211/Tvbox1/refs/heads/main/%E4%BC%98%E8%B4%A8.json"},
+    {"name": "scovisAdult", "url": "https://ghfast.top/https://raw.githubusercontent.com/scovis/TVBox/refs/heads/main/R18.json"}
+  ]
+}
