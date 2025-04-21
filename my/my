@@ -4,3 +4,8 @@ world fashion channel eng 1080p,https://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
 world fashion channel rus,https://cdn.wfc.tv/cdn/stream-rus.m3u8
 world fashion channel rus 720p,https://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
 world fashion channel rus 1080p,https://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
+global fashion channel,https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+global fashion channel main,https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8?iu=/21966227539/GFC_WEB&cust_params=GDPR%3D0%26DeviceType%3DDT%26VPI%3DMP4%26content_page_url%3Dhttps%3A%2F%2Fglobalfashionchannel.com%2Flive-broadcast%2F%26Width%3D1920%26Height%3D1080%26pod%5Bsize%5D%3D3%26LivestreamContent%3D1&Width=640&Height=480
+global fashion channel 540p,https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_540p.m3u8
+global fashion channel 720p,https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_720p.m3u8
+global fashion channel 1080p,https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_1080p.m3u8
