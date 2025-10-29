@@ -1,0 +1,104 @@
+Fuji TV ONE,https://ca01.utako.moe/fuji_one/index.m3u8
+playbox,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+NHK,https://nhk4.mov3.co/hls/nhk.m3u8
+fujitv4,https://fujitv4.mov3.co/hls/fujitv.m3u8
+ABN TV (720p),https://vod2.abn.co.kr/IPHONE/abn.m3u8
+Arirang Radio (720p),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+BBS Buddhist Broadcasting (1080p),http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+CGNTV South Korea (1080p),https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
+CJ OnStyle (540p),https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+GCN24 Korean (720p),http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+GoodTV (1080p),http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+Gugbang TV (1080p),http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+Home & Shopping (720p),https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+KBS LiveCam DokDo (540p),http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+KCTV 광주 CH05 (720p),http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+MBC Andong (안동 MBC) (360p),http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
+MBC Chuncheon (춘천 MBC) (480p),https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+MBC Mokpo (목포 MBC) (720p),http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+MBC Yeosu (여수 MBC) (1080p),https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+NHTV (720p),http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+SBS JTV (406p),http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+Shopping NT (720p),https://live.shoppingntmall.com/live/10011.m3u8
+tvchosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+tvchosun,http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+EBSi,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+EBS+2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+EBSe,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+tvN1,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
+tvN2,https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
+tvN3,https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?
+tvN5,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?tvN Movies
+KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+JTV,http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+C,http://112.175.51.214:1935/live/myStream/playlist.m3u8
+EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+韩国EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
+韩国EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u
+声优广播,http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+Arirang Radio,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+BTN,http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
+CPBC,http://onair1.cpbc.co.kr:1935/tv/smil:live.smil/playlist.m3u8
+EBS-KIDS,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
+GCN教会,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
+MBN,http://mytv.dothome.co.kr/ch/catv/54.php
+韩国音乐,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+BBC半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8
+韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+韩国中央台,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+伊朗-PBCTapeshTV,http://iptv.tapesh.tv/tapesh/playlist.m3u8
+韩国|KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_tvbox6.com.m3u8
+韩国|KCTV 1,http://119.77.96.184:1935/chn21/chn21/chunklist_tvbox6.com.m3u8
+韩国|Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+印度NDTV,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+SBS CJB (540p),http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+RNA,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
+Animax,https://ca01.utako.moe/Animax/index.m3u8
+Nihon Eiga Senmon,https://ca01.utako.moe/nihoneiga/index.m3u8
+Sky A,https://ca01.utako.moe/skya/index.m3u8
+Space Shower TV,https://ca01.utako.moe/spaceshower/index.m3u8
+MTV,https://ca01.utako.moe/mtv/index.m3u8
+Kayo Pops,https://ca01.utako.moe/kayopops/index.m3u8
+Disney Channel,https://ca01.utako.moe/disneychan/index.m3u8
+Cartoon Network Japan,https://ca01.utako.moe/cartoon_network/index.m3u8
+Nittele G+,https://ca01.utako.moe/ntvgplus/index.m3u8
+Family Gekijyo,https://ca01.utako.moe/familygeki/index.m3u8
+Mondo TV,https://ca01.utako.moe/mondo/index.m3u8
+TBS Channel 1,https://ca01.utako.moe/tbsch1/index.m3u8
+TBS Channel 2,https://ca01.utako.moe/tbsch2/index.m3u8
+TV Asahi Channel 1,https://ca01.utako.moe/ex_ch1/index.m3u8
+TV Asahi Channel 2,https://ca01.utako.moe/ex_ch2/index.m3u8
+Fuji TV TWO,https://ca01.utako.moe/fuji_two/index.m3u8
+Fuji TV NEXT,https://ca01.utako.moe/fuji_next/index.m3u8
+Neco Channel,https://ca01.utako.moe/neco/index.m3u8
+Dlife,https://ca01.utako.moe/dlife/index.m3u8
+Toei Channel,https://ca01.utako.moe/toei/index.m3u8
+Fighting TV Samurai,https://ca01.utako.moe/fighting_tv/index.m3u8
+Entermei Tele,https://ca01.utako.moe/entermei_tele/index.m3u8
+Sport Live Plus,https://ca01.utako.moe/sport_live_plus/index.m3u8
+Home Drama Channel,https://ca01.utako.moe/homedrama/index.m3u8
+Channel Ginga,https://ca01.utako.moe/gingach/index.m3u8
+Tabi Channel,https://ca01.utako.moe/tabi/index.m3u8
+Pigoo (NSFW),https://ca01.utako.moe/pigoo/index.m3u8
+V Paradise (NSFW),https://ca01.utako.moe/v_paradise/index.m3u8
