@@ -1,3 +1,13 @@
+# 值得去逛的网站
+
+http://beatsingdrama.blogspot.com/
+
+https://www.iptvindex.com/
+
+https://link3.cc/zoto
+
+https://www.tvbox.uno/
+
 # 使用Replit部署LiveRedirect项目
 
 PHP地址：https://php.61073736.repl.co/***.php?id={channel}
