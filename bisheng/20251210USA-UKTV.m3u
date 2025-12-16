@@ -1,0 +1,435 @@
+#EXTM3U
+#EXTINF:-1 ,====== Sofast Tv,#genre# ======
+http://0/0.m3u8
+#EXTINF:-1 ,4K Travel TV
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+#EXTINF:-1 ,Ace TV
+https://streams2.sofast.tv/WiseM3U8_30/sofast/cleanhls/master.m3u8
+#EXTINF:-1 ,America's Boating Channel
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04c3a27e-c2a0-420b-8eef-7dae9ab93056/manifest.m3u8
+#EXTINF:-1 ,Arab Heritage
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5dc4c2f-e3ec-488a-9458-9287014fba16/manifest.m3u8
+#EXTINF:-1 ,Automotion
+https://streams2.sofast.tv/sofastplayout/0c3229e2-6ca5-4714-859e-c0ac6b9aa58a_0_HLS/master.m3u8
+#EXTINF:-1 ,BabyFirst
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+#EXTINF:-1 ,Bang Bang TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8
+#EXTINF:-1 ,Beani TV
+https://streams2.sofast.tv/sofastplayout/f7973a17-2f10-483e-a4e1-c7cbaee7c3d9_0_HLS/master.m3u8
+#EXTINF:-1 ,Best Action TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8
+#EXTINF:-1 ,Best Drama TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8
+#EXTINF:-1 ,Best Thriller TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
+#EXTINF:-1 ,Billiards+
+https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
+#EXTINF:-1 ,Cartoon Classics
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
+#EXTINF:-1 ,Chrono
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d375ebca-9cd0-475e-ad4d-0cde6634de9c/manifest.m3u8
+#EXTINF:-1 ,Chukker
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3bd726a3-0d30-491d-b5e7-e1afb6e02112/manifest.m3u8
+#EXTINF:-1 ,Coeur Ocean TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2240abcf-afe5-4416-9631-fa9c29b7d0e6/manifest.m3u8
+#EXTINF:-1 ,Colour Blind
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7e58f6fd-62bc-49bc-9ec6-2766ed521743/manifest.m3u8
+#EXTINF:-1 ,Comedy Tadka
+https://streams2.sofast.tv/WiseM3U8_27/sofast/cleanhls/master.m3u8
+#EXTINF:-1 ,Cowboy Movie Channel
+https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
+#EXTINF:-1 ,Cuisine Culture
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/34839a9b-a901-4f31-b593-07555f7937d4/manifest.m3u8
+#EXTINF:-1 ,Danger Vision
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/453971f3-855a-455e-9353-ebbb069583a4/manifest.m3u8
+#EXTINF:-1 ,Docu Vision
+https://streams2.sofast.tv/sofastplayout/7e8d2a51-985d-4e76-bf7e-91edf0aa6e5f_0_HLS/master.m3u8
+#EXTINF:-1 ,Drive In Movie Channel
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/manifest.m3u8
+#EXTINF:-1 ,Edgy TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/49f275ac-7129-4492-93c0-854b3c3138f0/manifest.m3u8
+#EXTINF:-1 ,Edgy Urban
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/50ce2783-e0fe-405b-bfa7-349c4ff4916b/manifest.m3u8
+#EXTINF:-1 ,Encore+
+https://streams2.sofast.tv/sofastplayout/11d7f7fd-9c12-4c8a-b1a8-e879821e2187_1000014907_HLS/master.m3u8
+#EXTINF:-1 ,English TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/manifest.m3u8
+#EXTINF:-1 ,Escape TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4da91549-1762-4d60-b8b7-db07ef7ee64b/manifest.m3u8
+#EXTINF:-1 ,Euronews English
+https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
+#EXTINF:-1 ,Fight TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
+#EXTINF:-1 ,Goal TV
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
+#EXTINF:-1 ,HD Travel TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e58c3999-b5e1-4322-8d73-db8ebd8acb32/manifest.m3u8
+#EXTINF:-1 ,HeartFelt TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/74c455d4-625a-448a-8ba7-d086e6462245/manifest.m3u8
+#EXTINF:-1 ,Heritage Tourism
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cff3309e-ded1-40dd-a6dc-e3a6d0a92d72/manifest.m3u8
+#EXTINF:-1 ,Heritage+
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e4523706-f2a8-4b0f-b081-40fe59a46f81/manifest.m3u8
+#EXTINF:-1 ,Hi-5
+https://streams2.sofast.tv/WiseM3U8_31/sofast/cleanhls/master.m3u8
+#EXTINF:-1 ,Homerun TV
+https://streams2.sofast.tv/WiseM3U8_29/sofast/cleanhls/master.m3u8
+#EXTINF:-1 ,Hoop TV
+https://streams2.sofast.tv/WiseM3U8_28/sofast/cleanhls/master.m3u8
+#EXTINF:-1 ,Horror TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
+#EXTINF:-1 ,Hunt Fish TV
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/master.m3u8
+#EXTINF:-1 ,ITSF
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20a0ac30-d157-4400-8f64-3c52b37c645c/manifest.m3u8
+#EXTINF:-1 ,Jupiter TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c7e85b21-ea01-42b4-85db-15dcfec98942/manifest.m3u8
+#EXTINF:-1 ,Just for Laughs Gags
+https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8
+#EXTINF:-1 ,Kiddo+
+https://streams2.sofast.tv/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/master.m3u8
+#EXTINF:-1 ,Kozoom TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
+#EXTINF:-1 ,Kung Fu+
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8
+#EXTINF:-1 ,Latino Classic TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d419a88-a62c-496f-b8a1-984e746f8259/manifest.m3u8
+#EXTINF:-1 ,LOL TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fc63d5fd-b50e-4d3e-abdf-697d9b6cbf70/manifest.m3u8
+#EXTINF:-1 ,Love 2 Hate TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4f3f3fb6-cec9-4a29-bc6c-90685947766e/manifest.m3u8
+#EXTINF:-1 ,Luxury Dreams TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2f8307f7-cae4-4b19-afc0-32f4ba4ab4d0/manifest.m3u8
+#EXTINF:-1 ,Mama Benz TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65f99e10-8d57-460a-a6be-731d90cfe7b1/manifest.m3u8
+#EXTINF:-1 ,Mercury+
+https://streams2.sofast.tv/sofastplayout/b7867c83-0c17-4de2-a74b-beb972c4f342_1000015693_HLS/master.m3u8
+#EXTINF:-1 ,MotorRacing
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/db917aee-4061-4081-b5fc-d5786defb057/manifest.m3u8
+#EXTINF:-1 ,Mundo Series
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
+#EXTINF:-1 ,Naija Gold Reels
+https://streams2.sofast.tv/WiseM3U8_11/sofast/cleanhls/master.m3u8
+#EXTINF:-1 ,Nautical Channel
+https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
+#EXTINF:-1 ,Nitro TV
+https://streams2.sofast.tv/sofastplayout/71960d71-216f-47f3-bfe5-5b1386c05760_0_HLS/master.m3u8
+#EXTINF:-1 ,Outer Vision
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea1ad8da-7c74-4dc3-999f-15088a0d942a/manifest.m3u8
+#EXTINF:-1 ,PeekFlick
+https://streams2.sofast.tv/WiseM3U8_26/sofast/cleanhls/master.m3u8
+#EXTINF:-1 ,Ric+
+https://streams2.sofast.tv/WiseM3U8_32/sofast/cleanhls/master.m3u8
+#EXTINF:-1 ,Sci-Fi World
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8
+#EXTINF:-1 ,Space Series
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8
+#EXTINF:-1 ,Sport Fishing TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+#EXTINF:-1 ,Tensions TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9db01cea-0af6-4382-b2c6-e23525f6640d/manifest.m3u8
+#EXTINF:-1 ,Test My Ride
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_21/master.m3u8
+#EXTINF:-1 ,The Explorers
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
+#EXTINF:-1 ,Trufa
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/728c02aa-8bf4-4711-a911-30c6d1ad8570/manifest.m3u8
+#EXTINF:-1 ,Unchained TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e6fe3169-15ec-4f33-b16c-c9fc37853d61/manifest.m3u8
+#EXTINF:-1 ,Urban Action TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7ad8ce96-5a3f-413e-ae15-7c2cef7bc8f8/manifest.m3u8
+#EXTINF:-1 ,VOA (Voice of America)
+https://streams2.sofast.tv/voa-eng/playlist.m3u8
+#EXTINF:-1 ,Voyages+
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8
+#EXTINF:-1 ,WeShort
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea019bed-a45e-4dfe-a452-84f5f2f76ea9/manifest.m3u8
+#EXTINF:-1 ,Xtrem Sports
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+#EXTINF:-1 ,====== 英国电视台,#genre# ======
+http://1/1.m3u8
+#EXTINF:-1 ,Drone TV
+https://jmp2.uk/str-5407.m3u8
+#EXTINF:-1 ,RightNow TV
+https://jmp2.uk/str-5430.m3u8
+#EXTINF:-1 ,Just for Laughs
+https://jmp2.uk/str-5735.m3u8
+#EXTINF:-1 ,ENCORE+
+https://jmp2.uk/str-5746.m3u8
+#EXTINF:-1 ,Law & Crime
+https://jmp2.uk/str-6208.m3u8
+#EXTINF:-1 ,PursuitUP
+https://jmp2.uk/str-6435.m3u8
+#EXTINF:-1 ,Wild TV: Nonstop Outdoor Action & Adventure
+https://jmp2.uk/str-6439.m3u8
+#EXTINF:-1 ,Electric Now
+https://jmp2.uk/str-5309.m3u8
+#EXTINF:-1 ,Dark Matters TV
+https://jmp2.uk/str-6408.m3u8
+#EXTINF:-1 ,Western Bound
+https://jmp2.uk/str-6595.m3u8
+#EXTINF:-1 ,Sooner: Next Gen
+https://jmp2.uk/str-6639.m3u8
+#EXTINF:-1 ,Unleashed by DOGTV
+https://jmp2.uk/str-7017.m3u8
+#EXTINF:-1 ,Sooner: Coming of Age
+https://jmp2.uk/str-6637.m3u8
+#EXTINF:-1 ,INWILD
+https://jmp2.uk/str-7043.m3u8
+#EXTINF:-1 ,INTROUBLE
+https://jmp2.uk/str-7041.m3u8
+#EXTINF:-1 ,Wild Nature
+https://jmp2.uk/str-7061.m3u8
+#EXTINF:-1 ,INWONDER
+https://jmp2.uk/str-7045.m3u8
+#EXTINF:-1 ,KIDDO+
+https://jmp2.uk/str-5748.m3u8
+#EXTINF:-1 ,Teenvee
+https://jmp2.uk/str-6589.m3u8
+#EXTINF:-1 ,Imagine PlayWorld
+https://jmp2.uk/str-6585.m3u8
+#EXTINF:-1 ,Wine Watches & Whiskey
+https://jmp2.uk/str-7269.m3u8
+#EXTINF:-1 ,Slick Slime Sam
+https://jmp2.uk/str-6587.m3u8
+#EXTINF:-1 ,Cuisine Culture
+https://jmp2.uk/str-7275.m3u8
+#EXTINF:-1 ,Unchained TV
+https://jmp2.uk/str-7323.m3u8
+#EXTINF:-1 ,Yachting tv
+https://jmp2.uk/str-7305.m3u8
+#EXTINF:-1 ,OAN plus
+https://jmp2.uk/str-5288.m3u8
+#EXTINF:-1 ,Real America’s Voice
+https://jmp2.uk/str-7325.m3u8
+#EXTINF:-1 ,Weather Nation
+https://jmp2.uk/str-7327.m3u8
+#EXTINF:-1 ,Salem News Channel
+https://jmp2.uk/str-7271.m3u8
+#EXTINF:-1 ,DeFiance Media
+https://jmp2.uk/str-6759.m3u8
+#EXTINF:-1 ,USA Today
+https://jmp2.uk/str-6921.m3u8
+#EXTINF:-1 ,My Money
+https://jmp2.uk/str-6441.m3u8
+#EXTINF:-1 ,Gritos TV
+https://jmp2.uk/str-7295.m3u8
+#EXTINF:-1 ,Screams TV
+https://jmp2.uk/str-7293.m3u8
+#EXTINF:-1 ,NTD
+https://jmp2.uk/str-6414.m3u8
+#EXTINF:-1 ,Al Jazeera
+https://jmp2.uk/str-6701.m3u8
+#EXTINF:-1 ,FITE 24 7
+https://jmp2.uk/str-771.m3u8
+#EXTINF:-1 ,Mi Miedo Canal
+https://jmp2.uk/str-7297.m3u8
+#EXTINF:-1 ,GenB TV
+https://jmp2.uk/str-6430.m3u8
+#EXTINF:-1 ,123 GO!
+https://jmp2.uk/str-6593.m3u8
+#EXTINF:-1 ,MVMT of Culture
+https://jmp2.uk/str-7063.m3u8
+#EXTINF:-1 ,Horizon Sports
+https://jmp2.uk/str-7303.m3u8
+#EXTINF:-1 ,Automotions
+https://jmp2.uk/str-5721.m3u8
+#EXTINF:-1 ,SPEED SPORT 1
+https://jmp2.uk/str-6424.m3u8
+#EXTINF:-1 ,Fuel TV
+https://jmp2.uk/str-6411.m3u8
+#EXTINF:-1 ,DRIVE+SPEED
+https://jmp2.uk/str-7277.m3u8
+#EXTINF:-1 ,TRACE Sportstar
+https://jmp2.uk/str-6425.m3u8
+#EXTINF:-1 ,Powertube TV
+https://jmp2.uk/str-7307.m3u8
+#EXTINF:-1 ,Channel Fight
+https://jmp2.uk/str-1072.m3u8
+#EXTINF:-1 ,Nitro TV
+https://jmp2.uk/str-5730.m3u8
+#EXTINF:-1 ,Fight TV
+https://jmp2.uk/str-7279.m3u8
+#EXTINF:-1 ,Extreme+
+https://jmp2.uk/str-1549.m3u8
+#EXTINF:-1 ,The Grappling Network
+https://jmp2.uk/str-5300.m3u8
+#EXTINF:-1 ,MMA TV
+https://jmp2.uk/str-7273.m3u8
+#EXTINF:-1 ,Goal TV
+https://jmp2.uk/str-7283.m3u8
+#EXTINF:-1 ,Surfing Plus
+https://jmp2.uk/str-5887.m3u8
+#EXTINF:-1 ,World Poker Tour
+https://jmp2.uk/str-5306.m3u8
+#EXTINF:-1 ,Homerun TV
+https://jmp2.uk/str-7285.m3u8
+#EXTINF:-1 ,Fooseball TV
+https://jmp2.uk/str-7281.m3u8
+#EXTINF:-1 ,Sports First - Stream Free Now
+https://jmp2.uk/str-5305.m3u8
+#EXTINF:-1 ,Hoop TV
+https://jmp2.uk/str-7287.m3u8
+#EXTINF:-1 ,Nautical Channel
+https://jmp2.uk/str-5726.m3u8
+#EXTINF:-1 ,Ace TV
+https://jmp2.uk/str-5740.m3u8
+#EXTINF:-1 ,Cricket Gold
+https://jmp2.uk/str-5294.m3u8
+#EXTINF:-1 ,KOZOOM - The Billiard Channel
+https://jmp2.uk/str-5725.m3u8
+#EXTINF:-1 ,QVC
+https://jmp2.uk/str-5421.m3u8
+#EXTINF:-1 ,Hunt Fish TV
+https://jmp2.uk/str-5747.m3u8
+#EXTINF:-1 ,Cigar TV
+https://jmp2.uk/str-6633.m3u8
+#EXTINF:-1 ,Horse TV
+https://jmp2.uk/str-7289.m3u8
+#EXTINF:-1 ,Home Shopping Network
+https://jmp2.uk/str-5291.m3u8
+#EXTINF:-1 ,ONTV4U - Free Live Shopping & Lifestyle TV
+https://jmp2.uk/str-5395.m3u8
+#EXTINF:-1 ,CraftsyTV
+https://jmp2.uk/str-6413.m3u8
+#EXTINF:-1 ,5-Minute Crafts
+https://jmp2.uk/str-6581.m3u8
+#EXTINF:-1 ,Equus TV
+https://jmp2.uk/str-5295.m3u8
+#EXTINF:-1 ,Shop LC
+https://jmp2.uk/str-5417.m3u8
+#EXTINF:-1 ,AWE plus
+https://jmp2.uk/str-5289.m3u8
+#EXTINF:-1 ,Freebie TV - Watch Live Instantly
+https://jmp2.uk/str-5299.m3u8
+#EXTINF:-1 ,JLTV
+https://jmp2.uk/str-5428.m3u8
+#EXTINF:-1 ,American Stories Network
+https://jmp2.uk/str-7321.m3u8
+#EXTINF:-1 ,Docu Vision
+https://jmp2.uk/str-5739.m3u8
+#EXTINF:-1 ,Space Series
+https://jmp2.uk/str-7291.m3u8
+#EXTINF:-1 ,Humor Mill TV
+https://jmp2.uk/str-5302.m3u8
+#EXTINF:-1 ,Cowboy Movie Channel
+https://jmp2.uk/str-5745.m3u8
+#EXTINF:-1 ,Popstar! TV
+https://jmp2.uk/str-5436.m3u8
+#EXTINF:-1 ,Absinthe TV
+https://jmp2.uk/str-7299.m3u8
+#EXTINF:-1 ,Zoomer TV
+https://jmp2.uk/str-5308.m3u8
+#EXTINF:-1 ,Feva TV
+https://jmp2.uk/str-5298.m3u8
+#EXTINF:-1 ,MERCURY+
+https://jmp2.uk/str-5752.m3u8
+#EXTINF:-1 ,CrimeFlix - Free Crime TV That’ll Keep You Hooked
+https://jmp2.uk/str-5273.m3u8
+#EXTINF:-1 ,Elevation Church
+https://jmp2.uk/str-7309.m3u8
+#EXTINF:-1 ,Mi Raza Canal
+https://jmp2.uk/str-6641.m3u8
+#EXTINF:-1 ,Mi Raza Canal Plus
+https://jmp2.uk/str-6643.m3u8
+#EXTINF:-1 ,Omstars
+https://jmp2.uk/str-3353.m3u8
+#EXTINF:-1 ,RVTV
+https://jmp2.uk/str-5408.m3u8
+#EXTINF:-1 ,INTRAVEL
+https://jmp2.uk/str-7047.m3u8
+#EXTINF:-1 ,4K Travel TV
+https://jmp2.uk/str-5734.m3u8
+#EXTINF:-1 ,TRACE UK
+https://jmp2.uk/str-6427.m3u8
+#EXTINF:-1 ,H20 TV
+https://jmp2.uk/str-7319.m3u8
+#EXTINF:-1 ,Gotraveler
+https://jmp2.uk/str-5453.m3u8
+#EXTINF:-1 ,TRACE Urban
+https://jmp2.uk/str-6426.m3u8
+#EXTINF:-1 ,TRACE Latina
+https://jmp2.uk/str-6428.m3u8
+#EXTINF:-1 ,Playing for Change
+https://jmp2.uk/str-6635.m3u8
+#EXTINF:-1 ,Feva Music
+https://jmp2.uk/str-5297.m3u8
+#EXTINF:-1 ,TRACE Brazuca
+https://jmp2.uk/str-6429.m3u8
+#EXTINF:-1 ,Plymouth Rock TV
+https://jmp2.uk/str-5303.m3u8
+#EXTINF:-1 ,Our Vinyl
+https://jmp2.uk/str-6443.m3u8
+#EXTINF:-1 ,The Big Dish Channel
+https://jmp2.uk/str-5290.m3u8
+#EXTINF:-1 ,News On 6 - KOTV - (Tulsa OK)
+https://jmp2.uk/str-6465.m3u8
+#EXTINF:-1 ,News 9 - KWTV - (Oklahoma City OK)
+https://jmp2.uk/str-6467.m3u8
+#EXTINF:-1 ,ABC 5 - KSTP - (Minneapolis-St. Paul MN)
+https://jmp2.uk/str-6469.m3u8
+#EXTINF:-1 ,KOB 4 - (Albuquerque NM)
+https://jmp2.uk/str-6473.m3u8
+#EXTINF:-1 ,NewsChannel 13 - WNYT - (Albany NY)
+https://jmp2.uk/str-6475.m3u8
+#EXTINF:-1 ,News10NBC - WHEC - (Rochester NY)
+https://jmp2.uk/str-6477.m3u8
+#EXTINF:-1 ,WDIO ABC News - (Duluth MN)
+https://jmp2.uk/str-6479.m3u8
+#EXTINF:-1 ,ABC 6 NEWS - KAAL - (Minnesota & Iowa)
+https://jmp2.uk/str-6481.m3u8
+#EXTINF:-1 ,ABC 7 - WJLA - (Washington DC*)
+https://jmp2.uk/str-6483.m3u8
+#EXTINF:-1 ,KOMO NEWS 4 - ABC - (Seattle WA*)
+https://jmp2.uk/str-6485.m3u8
+#EXTINF:-1 ,KATU 2 ABC - (Portland OR*)
+https://jmp2.uk/str-6487.m3u8
+#EXTINF:-1 ,CBS 2 News - KUTV - (Salt Lake City UT*)
+https://jmp2.uk/str-6491.m3u8
+#EXTINF:-1 ,FOX45 WBFF Baltimore - Free Live Local News Stream
+https://jmp2.uk/str-6489.m3u8
+#EXTINF:-1 ,News 4 - WOAI - (San Antonio TX*)
+https://jmp2.uk/str-6493.m3u8
+#EXTINF:-1 ,ABC 6 - WSYX - (Columbus OH*)
+https://jmp2.uk/str-6495.m3u8
+#EXTINF:-1 ,CBS Austin - KEYE - (Austin TX*)
+https://jmp2.uk/str-6497.m3u8
+#EXTINF:-1 ,Local 12 - WKRC - (Cincinnati OH*)
+https://jmp2.uk/str-6499.m3u8
+#EXTINF:-1 ,ABC 13 News - WLOS - (Asheville NC*)
+https://jmp2.uk/str-6501.m3u8
+#EXTINF:-1 ,CBS 12 - WPEC - (West Palm Beach FL*)
+https://jmp2.uk/str-6503.m3u8
+#EXTINF:-1 ,News 3 NBC - KSNV - (Las Vegas NV*)
+https://jmp2.uk/str-6505.m3u8
+#EXTINF:-1 ,News Channel 3 CBS - WWMT - (Grand Rapids MI*)
+https://jmp2.uk/str-6507.m3u8
+#EXTINF:-1 ,CBS 21 News - WHP - (Harrisburg PA*)
+https://jmp2.uk/str-6509.m3u8
+#EXTINF:-1 ,Fox 25 - KOKH - (Oklahoma City OK*)
+https://jmp2.uk/str-6511.m3u8
+#EXTINF:-1 ,10 NBC WJAR - (Providence RI*)
+https://jmp2.uk/str-6513.m3u8
+#EXTINF:-1 ,Fox 26 - KMPH - (Fresno CA*)
+https://jmp2.uk/str-6515.m3u8
+#EXTINF:-1 ,NEWS 22 ABC - WKEF - (Dayton OH*)
+https://jmp2.uk/str-6517.m3u8
+#EXTINF:-1 ,FOX 11 - WLUK - (Green Bay WI*)
+https://jmp2.uk/str-6519.m3u8
+#EXTINF:-1 ,ABC NEWS 4 - WCIV - (Charleston SC*)
+https://jmp2.uk/str-6521.m3u8
+#EXTINF:-1 ,CBS 4 News - KDBC - (El Paso TX*)
+https://jmp2.uk/str-6523.m3u8
+#EXTINF:-1 ,6 NEWS NBC - WJAC - (Johnstown PA*)
+https://jmp2.uk/str-6529.m3u8
+#EXTINF:-1 ,WSBT 22 CBS - (South Bend IN*)
+https://jmp2.uk/str-6525.m3u8
+#EXTINF:-1 ,WPDE 15 ABC - (Myrtle Beach FL*)
+https://jmp2.uk/str-6527.m3u8
+#EXTINF:-1 ,FOX 9 - WTOV - (Steubenville OH*)
+https://jmp2.uk/str-6531.m3u8
+#EXTINF:-1 ,KSL-TV -5 - (Salt Lake City UT)
+https://jmp2.uk/str-6535.m3u8
+#EXTINF:-1 ,FOX 11 - WLUK - (Green Bay WI*) #2
+https://jmp2.uk/str-7053.m3u8
